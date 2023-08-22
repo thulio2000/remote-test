@@ -1,2 +1,2 @@
 # remote-test
-Descrição inserida antes da clonagem.
+Descrição inserida localmente depois do clone.
